@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/soda-kroes" target="blank"><img src="https://img.shields.io/twitter/follow/soda-kroes?logo=twitter&style=for-the-badge" alt="soda-kroes" /></a> </p>
 
-- 🔭 I’m currently working on **web application**
+- 🔭 I’m currently working on **web application developer**
 
-- 🌱 I’m currently learning **Spring boot, Asp.net , Asp.net core, ReactJs, NodeJs, NextJs**
+- 🌱 I’m currently learning **Spring Boot, ASP.NET, .NET Core, React, Node.js, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://kroessoda.vercel.app/](https://kroessoda.vercel.app/)
 
