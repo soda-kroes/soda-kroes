@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kroes Soda</h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00a0eb&width=436&lines=Hello+%F0%9F%91%8B+My+name+is+Rithy" alt="Hello 👋 My name is Soda Boy " />
+</a> 
 <h3 align="center">I am a passionate and dedicated web developer with 2 years of experience in designing and developing responsive websites and web applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soda-kroes&label=Profile%20views&color=0e75b6&style=flat" alt="soda-kroes" /> </p>
