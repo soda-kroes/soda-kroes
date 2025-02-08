@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kroessoda@gmail.com**
 
-- 📄 Know about my experiences [https://kroessoda.vercel.app/](https://kroessoda.vercel.app/)
+- 📄 Know about my experiences [https://kroessoda.vercel.app/](https://kroes-soda.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
