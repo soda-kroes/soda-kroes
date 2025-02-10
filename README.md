@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, ASP.NET, .NET Core, React, Node.js, Next.js**
 
-- 👨‍💻 All of my projects are available at [https://kroessoda.vercel.app/](https://kroessoda.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://kroes-soda.vercel.app/](https://kroes-soda.vercel.app/)
 
 - 📫 How to reach me **kroessoda@gmail.com**
 
