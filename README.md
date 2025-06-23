@@ -21,7 +21,6 @@
 ### 👨‍💻 About Me
 
 - 💻 I am a passionate Java Developer from Cambodia, focused on building robust backend systems and RESTful APIs.
-- 🌱 Currently exploring technical content writing to share knowledge and best practices.
 - ⚡ I enjoy reading tech articles and watching tech videos in my free time.
 - 🚀 Always eager to learn new technologies and improve my skills.
 
