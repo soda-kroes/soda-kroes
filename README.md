@@ -13,7 +13,7 @@
 </h1>
 
 <p align="center">
-  <b>Java Developer | Backend Enthusiast | Technical Writer</b>
+  <b>Backend Developer</b>
 </p>
 
 ---
