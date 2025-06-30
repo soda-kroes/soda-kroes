@@ -62,5 +62,5 @@
 ---
 
 <p align="center">
-  <i>"Striving for clean code and impactful solutions."</i>
+  <i>“First, solve the problem. Then, write the code. — Soda.dev”</i>
 </p>
