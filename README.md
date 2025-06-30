@@ -13,7 +13,7 @@
 </h1>
 
 <p align="center">
-  <b>Backend Developer | Full-Stack Enthusiast</b>
+  <b>Backend Developer | Web App Developer</b>
 </p>
 
 ---
