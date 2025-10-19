@@ -23,8 +23,6 @@
 - 💻 Passionate backend developer from Cambodia building robust systems and RESTful APIs.
 - 🛠️ Experienced with ASP.NET, Next.js, and Java Spring Boot for backend and full-stack projects.
 - 🗄️ Skilled in working with diverse databases: SQL Server, Oracle, PostgreSQL, MongoDB, and MySQL.
-- ⚡ Enjoy exploring new technologies, writing clean code, and creating impactful solutions.
-- 🚀 Always eager to learn and grow in software development.
 
 ---
 
